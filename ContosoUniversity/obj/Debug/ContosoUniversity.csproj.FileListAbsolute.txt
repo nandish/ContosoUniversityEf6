@@ -51,3 +51,5 @@ D:\RND\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Razor.xml
 D:\RND\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.dll
 D:\RND\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
 D:\RND\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
+D:\RND\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.InitialCreate.resources
+D:\RND\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.GenerateResource.Cache
