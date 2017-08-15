@@ -48,8 +48,10 @@ D:\RND\ContosoUniversity\ContosoUniversity\bin\System.Web.Razor.xml
 D:\RND\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.xml
 D:\RND\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Deployment.xml
 D:\RND\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Razor.xml
+D:\RND\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.InitialCreate.resources
+D:\RND\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.MaxLengthOnNames.resources
+D:\RND\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ColumnFirstName.resources
+D:\RND\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.GenerateResource.Cache
 D:\RND\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.dll
 D:\RND\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
-D:\RND\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
-D:\RND\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.InitialCreate.resources
-D:\RND\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.GenerateResource.Cache
+D:\RND\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ComplexDataModel.resources
